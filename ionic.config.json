@@ -1,0 +1,8 @@
+{
+  "name": "Alaia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ec9e86bd"
+}
